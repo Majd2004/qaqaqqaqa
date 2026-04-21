@@ -1,3 +1,36 @@
-[
-  
-]
+{
+  "_v": 1776780620232,
+  "items": [
+    {
+      "id": 1776780620231,
+      "name": "كريم جديد",
+      "price": "3000",
+      "img": "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1776780570006_6648.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1776780570006_6648.webp",
+        "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1776780582789_3362.webp",
+        "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1776780583051_2990.webp"
+      ],
+      "desc": "",
+      "old_price": "3500",
+      "badge_text": "جديدنا",
+      "cat": "العناية بالبشرة",
+      "is_offer": false,
+      "variants": [
+        {
+          "label": "حجم",
+          "options": [
+            {
+              "name": "Xl",
+              "price": null
+            },
+            {
+              "name": "Xxl",
+              "price": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

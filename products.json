@@ -1,6 +1,41 @@
 {
-  "_v": 1776780620232,
+  "_v": 1776780742163,
   "items": [
+    {
+      "id": 1776780742160,
+      "name": "المنتج الاول",
+      "price": "3000",
+      "img": "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1776780703198_4333.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1776780703198_4333.webp",
+        "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1776780703440_1068.webp",
+        "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1776780704363_1027.webp"
+      ],
+      "desc": "Fr\nR\nF\nF\nR\nR\nRr\nR\nR\nR",
+      "old_price": "4500",
+      "badge_text": "جديدنا",
+      "cat": "العناية بالبشرة",
+      "is_offer": true,
+      "variants": [
+        {
+          "label": "غومال",
+          "options": [
+            {
+              "name": "احمر",
+              "price": null
+            },
+            {
+              "name": "اخضر",
+              "price": null
+            },
+            {
+              "name": "اصفر",
+              "price": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": 1776780620231,
       "name": "كريم جديد",

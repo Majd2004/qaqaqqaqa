@@ -1,6 +1,50 @@
 {
-  "_v": 1776780742163,
+  "_v": 1776786571330,
   "items": [
+    {
+      "id": 1776786571328,
+      "name": "كريم جديدتا",
+      "price": "150 ل.س",
+      "img": "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1776786455494_3058.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1776786455494_3058.webp",
+        "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1776786455712_9096.webp",
+        "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1776786466396_2085.webp"
+      ],
+      "desc": " بنينين\nي\nب\nب\nبلب",
+      "old_price": "3000 ل.س",
+      "badge_text": "جديدنا",
+      "cat": "العناية بالبشرة",
+      "is_offer": false,
+      "variants": [
+        {
+          "label": "اللون",
+          "options": [
+            {
+              "name": "احمر",
+              "price": null
+            },
+            {
+              "name": "اخضر",
+              "price": null
+            }
+          ]
+        },
+        {
+          "label": "الحجم",
+          "options": [
+            {
+              "name": "كيلو",
+              "price": null
+            },
+            {
+              "name": "طن",
+              "price": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": 1776780742160,
       "name": "المنتج الاول",

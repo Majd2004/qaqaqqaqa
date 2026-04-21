@@ -1,6 +1,49 @@
 {
-  "_v": 1776786571330,
+  "_v": 1776786637293,
   "items": [
+    {
+      "id": 1776786637290,
+      "name": "كريم جديد",
+      "price": "3000",
+      "img": "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1776786593708_4009.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1776786593708_4009.webp",
+        "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1776786597752_8416.webp"
+      ],
+      "desc": "Hrhr\nTtt\n\nT\ntt\n\nTt",
+      "old_price": "3800",
+      "badge_text": "جديدنا",
+      "cat": "العناية بالبشرة",
+      "is_offer": true,
+      "variants": [
+        {
+          "label": "اللون",
+          "options": [
+            {
+              "name": "احمر",
+              "price": null
+            },
+            {
+              "name": "اصفر",
+              "price": null
+            }
+          ]
+        },
+        {
+          "label": "الحجم",
+          "options": [
+            {
+              "name": "تت",
+              "price": null
+            },
+            {
+              "name": "تةل",
+              "price": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": 1776786571328,
       "name": "كريم جديدتا",

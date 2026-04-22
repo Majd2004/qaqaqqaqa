@@ -1,6 +1,36 @@
 {
-  "_v": 1776815676422,
+  "_v": 1776857491007,
   "items": [
+    {
+      "id": 1776857491001,
+      "name": "سيروم الوجه",
+      "price": "2500",
+      "img": "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1776857390197_5687.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1776857390197_5687.webp",
+        "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1776857390324_9534.webp"
+      ],
+      "desc": "سيروم جديد ممتاز للبشرة ❤",
+      "old_price": "",
+      "badge_text": "جديدنا",
+      "cat": "مستحضرات تجميل",
+      "is_offer": false,
+      "variants": [
+        {
+          "label": "اللون",
+          "options": [
+            {
+              "name": "احمر",
+              "price": "2500"
+            },
+            {
+              "name": "اخضر",
+              "price": "3000"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": 1776805589361,
       "name": "المنتج الثانيا",

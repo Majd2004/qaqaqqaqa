@@ -1,6 +1,35 @@
 {
-  "_v": 1776857491007,
+  "_v": 1777426429949,
   "items": [
+    {
+      "id": 1777426429947,
+      "name": "كريم بالدولار",
+      "price": "5",
+      "img": "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1777426382676_2438.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1777426382676_2438.webp"
+      ],
+      "desc": "دولار",
+      "old_price": "7",
+      "badge_text": "دولار",
+      "cat": "دولار",
+      "is_offer": false,
+      "variants": [
+        {
+          "label": "دولار",
+          "options": [
+            {
+              "name": "دررر",
+              "price": null
+            },
+            {
+              "name": "دررر",
+              "price": null
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": 1776857491001,
       "name": "سيروم الوجه",

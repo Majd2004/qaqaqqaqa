@@ -1,1 +1,12 @@
-# qaqaqqaqa
+# qzqxqcqv — PWA على GitHub Pages
+
+## خطوات التفعيل
+1. ارفع جميع ملفات ZIP على مستودع GitHub جديد
+2. Settings → Pages → main → / (root) → Save
+3. انتظر دقيقتين وافتح الرابط
+
+## رابط JSON
+https://raw.githubusercontent.com/Majd2004/qaqaqqaqa/refs/heads/main/products.json
+
+---
+*Mediphera PWA Generator*

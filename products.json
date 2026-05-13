@@ -1,5 +1,5 @@
 {
-  "_v": 1778711497061,
+  "_v": 1778711548356,
   "_exchange": {
     "rate": 14000,
     "currency": "USD",
@@ -7,6 +7,21 @@
     "updated": "2026-05-13"
   },
   "items": [
+    {
+      "id": 1778711548355,
+      "name": "Ajajajyy",
+      "price": "5",
+      "img": "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1778711533245_5720.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1778711533245_5720.webp"
+      ],
+      "desc": "",
+      "old_price": "7",
+      "badge_text": "Test",
+      "cat": "",
+      "is_offer": true,
+      "variants": []
+    },
     {
       "id": 1778711483390,
       "name": "Test66",

@@ -1,12 +1,27 @@
 {
-  "_v": 1778708342634,
+  "_v": 1778709312198,
   "_exchange": {
-    "rate": 15000,
+    "rate": 14000,
     "currency": "USD",
     "currency_symbol": "$",
-    "updated": "2026-05-13"
+    "updated": "2026-04-29"
   },
   "items": [
+    {
+      "id": 1778709312197,
+      "name": "افبلففلافقm",
+      "price": 4,
+      "img": "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1778709289839_2594.webp",
+      "imgs": [
+        "https://cdn.jsdelivr.net/gh/Majd2004/qaqaqqaqa@main/images/img_1778709289839_2594.webp"
+      ],
+      "desc": "",
+      "old_price": 7,
+      "badge_text": "test 2",
+      "cat": "تيسستات",
+      "is_offer": false,
+      "variants": []
+    },
     {
       "id": 1777426429947,
       "name": "كريم بالدولار",
